@@ -1,0 +1,1 @@
+flipteek! es una Aplicación para tomar notas, guardarlas y poder visualizarlas desde cualquier dispositivo de la red

@@ -1,0 +1,37 @@
+Flipteek! es una Aplicación desarrollada para la tarea de tomar notas, guardarlas y poder visualizarlas desde cualquier dispositivo de la red.
+
+### Requerimientos ###
+
+	Para poder Hacer uso de de Flipteek! se debe tener instalado lo siguiente:
+		*Node.js --> http://nodejs.org
+		*MongoDB --> http://www.mongodb.org/
+		*Chrome/ Firefox 2* o superior
+
+### Instalación y uso ###
+
+	Una vez se tiene la aplicación en una carpeta de terminada(por defecto Flipteek\!/) y con node.js instalado se debe desde ejecutar la consola(valido para cualquier sistema operativo), situarse en la carpeta de la aplicación y ejecutar el comando npm install, este ultimo resolvera las dependencias necesarias para la ejecución de la aplicación. 
+
+	Para hacer uso de ella se debe hacer uso primero de la consola y luego ejecutara los comandos Flipteek\!/server.js or node server.js(este es valido si se está situado dentro del directorio en la consola) y automaticamente la aplicación iniciara y podremos entrar a ella desde el navegador con la url http://localhost:80
+
+	Si se quiere accesar desde un dispositivo ajeno al servidor, primero se debe estar dentro de la misma red que el servidor y luego en el navegador del dispositivo remoto teclear http://192.168.1.xxx(reemplazar las xx con la terminación del host donde está alojada la aplicación)
+
+	Nota: Para que la aplicación pueda correr con exito se debe haber iniciado la base de datos mongo anteriormente para evitar errores
+
+	Flipteek! is an application developed for the task of taking notes, save them and view them from any device to the network.
+
+# # # # # # Requirements
+
+	To make use of Flipteek! must have the following installed:
+		* Node.js -> http://nodejs.org
+		* MongoDB -> http://www.mongodb.org/
+		* Chrome / Firefox 2 or higher *
+
+# # # Installation and use # # #
+
+	Once the application has finished in a folder (default Flipteek \! /) And installed node.js should run from console (valid for any operating system), go to the application folder and run the command npm install, the latter will resolve necessary for the execution of the application dependencies.
+
+	To make use of it must be made first use of the console and then execute the commands Flipteek\!//server.js or node server.js(this is valid if it is located in the directory in the console) and automatically initiate the application and we can get it from the browser with the url http://localhost:80
+
+	If you want to access from an alien device to the server, you must first be in the same network as the server and the browser then type the remote device http://192.168.1.xxx (replace xx with the completion of host where the application is hosted)
+
+	Note: To enable the application to run successfully you should have started earlier mongo database to avoid errors

@@ -1,0 +1,25 @@
+{
+  "name": "flipteek",
+  "version": "0.0.2",
+  "description": "flipteek! es una Aplicación para tomar notas, guardarlas y poder visualizarlas desde cualquier dispositivo de la red",
+  "main": "server.js",
+  "author": {
+    "name": "goalkeeper112",
+    "twitter": "https://twitter.com/goalkeeper112",
+    "facebook": "https://www.facebook.com/Barra.Frente.Guarenas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://goalkeeper112@bitbucket.org/goalkeeper112/"
+  },
+  "homepage": "https://goalkeeper112@bitbucket.org/goalkeeper112/",
+  "keywords": [ "flipteek", "angular", "mongoose", "mongo", "notas", "express"],
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "express": "~3.4.4",
+    "mongoose": "~3.6.2"
+  },
+  "readmeFileName": "README.md"
+}
